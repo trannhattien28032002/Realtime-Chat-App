@@ -24,24 +24,20 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/realtime-chat-app.git
 cd realtime-chat-app
 ```
 
-### 🔹 2️⃣ Install dependencies  
+### 🔹 2️⃣ Build the app 
 ```bash
-# Install frontend dependencies
-cd client  
-npm install  
-
-# Install backend dependencies
-npm install  
+# Install frontend and backend dependencies
+npm run build
 ```
 
 ### 🔹 3️⃣ Run the project  
 ```bash
 # Start backend server
-npm run
+npm run server
 
 # Open a new terminal, then start frontend
-cd ../client  
-npm start  
+cd ../frontend
+npm run dev
 ```
 
 ### 🔹 4️⃣ Open in browser  
