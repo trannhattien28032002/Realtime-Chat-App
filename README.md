@@ -9,10 +9,11 @@ A real-time chat application built with **ReactJS, Node.js, Express, and Socket.
 ✅ Responsive UI  
 
 ## 🛠️ Tech Stack  
-- **Frontend:** ReactJS, Tailwind CSS  
+- **Frontend:** ReactJS, Tailwind CSS, DaisyUI
 - **Backend:** Node.js, Express.js  
 - **Real-time:** Socket.io  
-- **Database:** MongoDB (if included)  
+- **Database:** MongoDB (if included)
+- **PaaS**: Render Dashboard
 
 ---
 
