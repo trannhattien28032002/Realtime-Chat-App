@@ -49,10 +49,9 @@ Backend API: http://localhost:5000
 ---
 
 ## 📸 Screenshots  
-![Screenshot](https://ibb.co/tpF4W8J9)
-<img src="https://i.ibb.co/DDtpg5SG/Screenshot-2025-02-20-174015.png" alt="Screenshot-2025-02-20-174015" border="0" />
-<img src="https://i.ibb.co/DDtpg5SG/Screenshot-2025-02-20-174015.png" alt="Screenshot-2025-02-20-174015" border="0" />
-<img src="https://i.ibb.co/v0SkfTd/Screenshot-2025-02-20-174005.png" alt="Screenshot-2025-02-20-174005" border="0" />
+<img src="https://i.ibb.co/DDtpg5SG/Screenshot-2025-02-20-174015.png" alt="Screenshot-2025-02-20-174015" border="0" width="200"/>
+<img src="https://i.ibb.co/DDtpg5SG/Screenshot-2025-02-20-174015.png" alt="Screenshot-2025-02-20-174015" border="0" width="200"/>
+<img src="https://i.ibb.co/v0SkfTd/Screenshot-2025-02-20-174005.png" alt="Screenshot-2025-02-20-174005" border="0" width="200"/>
 
 ## 📺 Demo
 [Youtube Video](https://youtu.be/eOuT4dNTpqU)
