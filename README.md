@@ -49,7 +49,13 @@ Backend API: http://localhost:5000
 ---
 
 ## 📸 Screenshots  
-*(Update...)*  
+![Screenshot](https://ibb.co/tpF4W8J9)
+<img src="https://ibb.co/tpF4W8J9" alt="Screenshot 01" width="500"/>
+<img src="https://ibb.co/HDVdpnkN" alt="Screenshot 02" width="500"/>
+<img src="https://ibb.co/pYSdNMK" alt="Screenshot 03" width="500"/>
+
+## 📺 Demo
+[Youtube Video](https://youtu.be/eOuT4dNTpqU)
 
 ## 📝 Credits  
 Inspired by the tutorial: [YouTube Video](https://youtu.be/HwCqsOis894?si=QlxDKllLA7wJOUM5).  
